@@ -1,6 +1,6 @@
 #!/bin/bash
 set -x
-# Julia's 1st Attempt 
+ 
 ############################################
 # DSI CONSULTING INC. Project setup script #
 ############################################
