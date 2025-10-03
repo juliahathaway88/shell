@@ -44,8 +44,6 @@ cp data/raw/*event*.log data/processed/event_logs
 rm data/processed/user_logs/*ipaddr*
 rm data/raw/*ipaddr*
 # 8. Create a file named ./data/inventory.txt that lists all the files in the subfolders of ./data/processed
-cd ..
 ls data/processed > data/inventory.txt
 ###########################################
 
-echo "Project setup is complete!"
